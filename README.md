@@ -23,7 +23,7 @@ AtliQ Grands owns multiple five-star hotels across India. They have been in the 
 8.	Deploying the solution using Power BI Service.
 
 - Dashboard link: https://app.powerbi.com/view?r=eyJrIjoiNzk3N2U1NjUtMDJmZS00ZWMzLWI4Y2ItNzA1ZGE4Y2EyNWJjIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
-- LinkedIn: https://www.linkedin.com/in/v-s-santhi-anantha-71634a27a/
+- LinkedIn: https://www.linkedin.com/in/venkata-siva-santhi-anantha-71634a27a/
 
 **Key metrics:**
 
